@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [https://github.com/xerk-dot/starsof](https://github.com/xerk-dot/starsof)
 
-- 👨‍💻 All of my projects are available at [https://github.com/xerk-dot](https://github.com/xerk-dot)
-
 - 📝 I regularly write articles on [https://henryhecht.me/](https://henryhecht.me/)
 
 - 📫 How to reach me **henry.hecht400@gmail.com**
