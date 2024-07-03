@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm xerk-dot</h1>
+<h1 align="center">hello world... i'm xerk-dot!</h1>
 <h3 align="center">a passionate MLOPs</h3>
 
 <p align="left"> <a href="https://twitter.com/xerkoff" target="blank"><img src="https://img.shields.io/twitter/follow/xerkoff?logo=twitter&style=for-the-badge" alt="xerkoff" /></a> </p>
