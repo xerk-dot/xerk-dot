@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/xerkoff" target="blank"><img src="https://img.shields.io/twitter/follow/xerkoff?logo=twitter&style=for-the-badge" alt="xerkoff" /></a> </p>
 
-- 🔭 I’m currently working on [https://github.com/xerk-dot/starsof](https://github.com/xerk-dot/starsof)
+- 🔭 currently working on [https://github.com/xerk-dot/starsof](https://github.com/xerk-dot/starsof)
 
-- 📝 I regularly write articles on [https://henryhecht.me/](https://henryhecht.me/)
+- 📝 regularly write articles on [https://henryhecht.me/](https://henryhecht.me/)
 
-- 📫 How to reach me **henry.hecht400@gmail.com**
+- 📫 reach me at **henry.hecht400@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
