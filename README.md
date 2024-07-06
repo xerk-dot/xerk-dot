@@ -2,7 +2,7 @@
 <h3 align="center">cloud architect, mlops, and more!</h3>
 
 
-- 🔭 currently working on [[https://github.com/xerk-dot/starsof](https://github.com/xerk-dot/starsof)](https://github.com/xerk-dot/STARSOF-THELID-firebase)
+- 🔭 currently working on [https://github.com/xerk-dot/STARSOF-THELID-firebase](https://github.com/xerk-dot/STARSOF-THELID-firebase)
 
 - 📝 regularly write articles on [https://henryhecht.me/](https://henryhecht.me/)
 
