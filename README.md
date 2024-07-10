@@ -1,5 +1,5 @@
 <h1 align="center">hello... i'm xerk-dot!</h1>
-<h3 align="center">cloud architect, mlops, and more!</h3>
+<h3 align="center">~welcome to my github~</h3>
 
 
 - 🔭 currently working on [https://github.com/xerk-dot/STARSOF-THELID-map](https://github.com/xerk-dot/STARSOF-THELID-map)
