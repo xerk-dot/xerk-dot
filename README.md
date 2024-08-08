@@ -7,8 +7,6 @@
 
 - 📝 regularly write articles on [https://henryhecht.me/](https://henryhecht.me/)
 
-- 📫 reach me at **henry.hecht400@gmail.com**
-
 <h3 align="left">connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/xerkoff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xerkoff" height="30" width="40" /></a>
