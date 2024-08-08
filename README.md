@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/henryhecht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="henryhecht" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">languages and tools:</h3>
+<h3 align="left">things i use:</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
