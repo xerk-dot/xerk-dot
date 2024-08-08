@@ -1,6 +1,7 @@
 <h1 align="center">hello... i'm xerk-dot!</h1>
 <h3 align="center">~welcome to my github~</h3>
 
+<h3 align="left">about:</h3>
 
 - 🔭 currently working on [https://github.com/xerk-dot/STARSOF-THELID-map](https://github.com/xerk-dot/STARSOF-THELID-map)
 
