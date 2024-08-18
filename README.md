@@ -3,7 +3,7 @@
 
 <h3 align="left">about:</h3>
 
-- 🔭 currently working on [https://github.com/xerk-dot/STARSOF-THELID-map](https://github.com/xerk-dot/STARSOF-THELID_sandbox)
+- 🔭 currently working on [https://github.com/xerk-dot/STARSOF-THELID_sandbox](https://github.com/xerk-dot/STARSOF-THELID_sandbox)
 
 - 📝 regularly write articles on [https://henryhecht.me/](https://henryhecht.me/)
 
