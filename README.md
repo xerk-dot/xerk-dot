@@ -1,9 +1,6 @@
 <h1 align="center">hello... i'm xerk-dot!</h1>
 <h3 align="center">~welcome to my github~</h3>
 
-<h3 align="left">about:</h3>
-
-- 🔭 currently working on [https://github.com/xerk-dot/STARSOF-THELID_sandbox](https://github.com/xerk-dot/STARSOF-THELID_sandbox)
 
 <h3 align="left">connect with me:</h3>
     <p align="center">
@@ -15,7 +12,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,ts,nodejs,yarn,react,angular,codepen,webpack,threejs,figma,nextjs,npm,graphql,opencv,pnpm,regex,tailwind,threejs" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,ts,nodejs,npm,pnpm,yarn" />
+    <img src="https://skillicons.dev/icons?i=react,angular,nextjs,threejs,codepen,webpack,figma,graphql,opencv,tailwind" />
     </a> 
 </p>
 
