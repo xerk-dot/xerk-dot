@@ -13,8 +13,12 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,html,js,ts,nodejs,npm,pnpm,yarn" />
-    <img src="https://skillicons.dev/icons?i=react,angular,nextjs,threejs,codepen,webpack,figma,graphql,opencv,tailwind" />
-    </a> 
+   </a> 
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,threejs,codepen,webpack,figma,graphql,opencv,tailwind" />
+        </a> 
 </p>
 
 <p align="center">
@@ -33,7 +37,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,go,tensorflow," />
+    <img src="https://skillicons.dev/icons?i=py,go,tensorflow" />
     </a> 
 </p>
 
