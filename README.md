@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,supabase,kubernetes,firebase,mongodb" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,supabase,kubernetes,firebase,mongodb,postgresql" />
     </a> 
 </p>
 
