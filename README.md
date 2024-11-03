@@ -4,7 +4,7 @@
 
 <h3 align="left">connect with me:</h3>
     <p align="center">
-        <a href="https://twitter.com/xerkoff" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter"  /></a>
+        <a href="https://twitter.com/xerkdot" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter"  /></a>
 </p>
 
 <h3 align="left">things i use:</h3>
