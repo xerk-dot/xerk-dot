@@ -6,8 +6,31 @@
     <p align="center">
         <a href="https://twitter.com/xerkdot" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter"  /></a>
 </p>
+<h3 align="left">things ive made:</h3>
 
-<h3 align="left">things i use:</h3>
+
+<p align="center">
+    <a href="https://github.com/xerk-dot/modular-blog" target="blank">Modular Design Blog</a>
+    <br/>
+    Made with:
+    <br/>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=vercel,nextjs,figma,nodejs,react" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/xerk-dot/handkerchief" target="blank">Handkerchief</a>
+    <br/>
+    Made with:
+    <br/>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,ts,aws,docker,postgresql,java,spring,nodejs,npm" />
+    </a>
+</p>
+
+
+<h3 align="left">general things i use:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
