@@ -1,6 +1,6 @@
 <div style="width: 100%;">
   <a href="/welcome.svg">
-    <img src="welcome" style="width: 100%;" alt="click this to see the source">
+    <img src="welcome.svg" style="width: 100%;" alt="click this to see the source">
   </a>
   <div style="border: 60px solid #93827f; padding: 10px;">
     <h1 align="left">1. connect with me:</h1>
