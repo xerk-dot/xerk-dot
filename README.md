@@ -14,7 +14,7 @@
     </p>
     <h1 align="center">2. things ive made:</h1>
     <p align="center">
-      <a href="https://github.com/xerk-dot/modular-blog" target="blank">modular blog (made with latest ai-tools from figma, storybook, etc.)</a>
+      <a href="https://github.com/xerk-dot/modular-blog" target="blank">modular blog (made w/ latest ai-tools from figma, storybook, etc.)</a>
       <br/>
       made with:
       <br/>
