@@ -37,7 +37,7 @@
       }
 
       .container {
-        background: var(--color-background);
+        background: rgba(var(--color-background-rgb), 0.4);
         height: calc(100% - 30px);
         width: calc(100% - 10px);
         display: flex;

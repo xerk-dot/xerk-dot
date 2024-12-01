@@ -3,7 +3,8 @@
   <a href="/welcome.svg">
     <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
   </a>
-<h3 align="left">connect with me:</h3>
+<div style="border: 60px solid #93827f; padding: 10px;">
+    <h3 align="left">connect with me:</h3>
     <p align="left">
         <a href="https://twitter.com/xerkdot" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter"  /></a>
         <a href="https://bsky.app/profile/orangedev.bsky.social" target="blank">
