@@ -75,7 +75,7 @@
       <div class="container">
         <h1 align="center">hello... i'm xerk-dot!</h1>
         <h3 align="center">~welcome to my github~</h3>
-
+    </div>
     </div>
   </foreignObject>
 </svg>
