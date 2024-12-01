@@ -20,7 +20,7 @@
         --color-link: #93827f;
         --color-link-active: #bdc4a7;
         --color-red: #FF4400;
-
+        --color-teriary: #2b3137;
         height: 250px;
         width: 100%;
         text-transform: uppercase;
@@ -28,7 +28,7 @@
         align-items: center;
         justify-content: center;
 
-        background-image: radial-gradient(var(--color-red),var(--color-main), var(--color-primary), var(--color-secondary));
+        background-image: radial-gradient(var(--color-red),var(--color-background), var(--color-primary), var(--color-teriary));
         animation: border 4.5s ease-in-out infinite;
         background-size: 200% 200%;
         background-position: 0 0;
@@ -36,13 +36,13 @@
       }
 
       .container {
-        height: calc(100% - 45px);
+        height: calc(100% - 40px);
         width: calc(100% - 20px);
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        background-color: rgba(47, 47, 47, 1); /* Added transparency */
+        background-color: #24292e; /* Added transparency */
       }
 
       h1 {
