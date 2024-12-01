@@ -4,7 +4,7 @@
     <img src="welcome.svg" style="width: 100%;" alt="Click to see the source">
   </a>
 <div style="border: 60px solid #93827f; padding: 10px;">
-    <h3 align="left">connect with me:</h3>
+    <h1 align="left">1. connect with me:</h3>
     <p align="left">
         <a href="https://twitter.com/xerkdot" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter"  /></a>
         <a href="https://bsky.app/profile/orangedev.bsky.social" target="blank">
@@ -13,9 +13,10 @@
             </svg>
         </a>
     </p>
+<hr>
 
-<h3 align="left">things ive made:</h3>
-<p align="left">
+<h1 align="center">2. things ive made:</h3>
+<p align="center">
     <a href="https://github.com/xerk-dot/modular-blog" target="blank">modular blog (made with latest AI-tools from Figma, Storybook, etc.)</a>
     <br/>
     made with:
@@ -25,7 +26,7 @@
     </a>
 </p>
 
-<p align="left">
+<p align="center">
     <a href="https://github.com/xerk-dot/handkerchief" target="blank">handkerchief (full-stack microblogging twitter-clone)</a>
     <br/>
     made with:
@@ -35,10 +36,12 @@
     </a>
 </p>
 
+<hr>
 
-<h3 align="left">general things i use:</h3>
 
-<div align="left">
+<h1 align="right">3. things i enjoy using:</h3>
+
+<div align="right">
   <p style="border: 1px solid white;">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=css,html,js,ts,nodejs,npm,pnpm,yarn" />
