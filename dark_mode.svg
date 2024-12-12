@@ -26,7 +26,7 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="270">                       .</tspan>
 <tspan x="15" y="290">                        ..</tspan>
 <tspan x="15" y="310">                          ...</tspan>
-<tspan x="15" y="330">                             *__</tspan>
+<tspan x="15" y="330">                            ..__</tspan>
 <tspan x="15" y="350">                          __/ \ \</tspan>
 <tspan x="15" y="370">                         /o \_  </tspan>
 </text>
