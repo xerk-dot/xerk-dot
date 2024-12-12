@@ -24,10 +24,10 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="230">                     .</tspan>
 <tspan x="15" y="250">                      ..</tspan>
 <tspan x="15" y="270">                       .</tspan>
-<tspan x="15" y="290">                        ..</tspan>
-<tspan x="15" y="310">                          ..&#41;/</tspan>
-<tspan x="15" y="330">                           _@'</tspan>
-<tspan x="15" y="350">                           o\</tspan>
+<tspan x="15" y="290">                        ...</tspan>
+<tspan x="15" y="310">                           ...&#41;/</tspan>
+<tspan x="15" y="330">                           __/'@-</tspan>
+<tspan x="15" y="350">                           o\   \</tspan>
 </text>
 
 <text x="370" y="30" fill="#c9d1d9">
