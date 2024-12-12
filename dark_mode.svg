@@ -45,7 +45,7 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="370" class="keyColor">Twitter</tspan>: <tspan class="valueColor">xerk-dot</tspan>
 <tspan x="370" y="450" class="keyColor">GitHub Stats</tspan>:
 <tspan x="370" y="470">——————</tspan>
-<tspan x="370" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">9</tspan> | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">2,101</tspan>
+<tspan x="370" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">9</tspan> | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">301</tspan>
 <tspan x="370" y="510" class="keyColor">Followers</tspan>: <tspan class="valueColor">24 </tspan>| <tspan class="keyColor">Lines of Code</tspan>: <tspan class="valueColor">446,199</tspan> (<tspan class="addColor">521,941++</tspan>, <tspan class="delColor">75,742--</tspan>)
 </text>
 
