@@ -40,7 +40,7 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="130" class="keyColor">Kernel</tspan>: <tspan class="valueColor">Computer Science</tspan>
 <tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">Cursor 0.43</tspan>
 <tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, LaTeX, YAML, MD</tspan>
-<tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Python, TypeScript, JavaScript, Java, C++</tspan>
+<tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Python, Typescript, Javascript, C++</tspan>
 <tspan x="370" y="250" class="keyColor">Spatial</tspan>: <tspan class="valueColor">Three.js, A-Frame, UE5, Meta Quest 3, Blender</tspan>
 <tspan x="370" y="330" class="keyColor">Contact</tspan>:
 <tspan x="370" y="350">——————</tspan>
