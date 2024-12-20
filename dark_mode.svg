@@ -42,9 +42,6 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, LaTeX, YAML, MD</tspan>
 <tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Python, Typescript, Javascript, C++</tspan>
 <tspan x="370" y="250" class="keyColor">Spatial</tspan>: <tspan class="valueColor">Three.js, A-Frame, UE5, Meta Quest 3, Blender</tspan>
-<tspan x="370" y="350" class="keyColor">Contact</tspan>:
-<tspan x="370" y="370">——————</tspan>
-<tspan x="370" y="390" class="keyColor">Twitter</tspan>: <tspan class="valueColor">xerk-dot</tspan>
 <tspan x="370" y="450" class="keyColor">GitHub Stats</tspan>:
 <tspan x="370" y="470">——————</tspan>
 <tspan x="370" y="490" class="keyColor">Repos</tspan>: <tspan class="valueColor">9</tspan> | <tspan class="keyColor">Commmits</tspan>: <tspan class="valueColor">401</tspan>
