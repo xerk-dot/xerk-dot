@@ -40,6 +40,7 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">Warp, Antigravity</tspan>
 <tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, LaTeX, YAML, MD</tspan>
 <tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Python, Typescript, Javascript, C++</tspan>
+<tspan x="370" y="230" class="keyColor">Data</tspan>: <tspan class="valueColor">BQ, Postgres</tspan>
 </text>
 
 </svg>
