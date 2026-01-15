@@ -39,7 +39,6 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="230" class="keyColor">Tech Debt</tspan>: <tspan class="valueColor">Not debt if it never gets paid back</tspan>
 <tspan x="370" y="270" class="keyColor">Scrum</tspan>: <tspan class="valueColor">No standups. No ceremonies. Only 1-on-1s</tspan>
 <tspan x="370" y="290" class="keyColor">Anti-container</tspan>: <tspan class="valueColor">Docker is a lie. Its a fake cure AWS sold you</tspan>
-<tspan x="370" y="310" class="keyColor">YC</tspan>: <tspan class="valueColor">Y Combinator is a pyramid scheme</tspan>
 <tspan x="370" y="330" class="keyColor">Leadership</tspan>: <tspan class="valueColor">The best leaders never wanted to lead</tspan>
 <tspan x="370" y="350" class="keyColor">Frontend</tspan>: <tspan class="valueColor">React has been a disaster for webdev</tspan>
 <tspan x="370" y="370" class="keyColor">Ownership</tspan>: <tspan class="valueColor">You do not own your computer anymore</tspan>
