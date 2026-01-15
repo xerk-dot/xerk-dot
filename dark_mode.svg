@@ -34,18 +34,17 @@ text, tspan {white-space: pre;}
 <text x="370" y="30" fill="#c9d1d9">
 <tspan x="370" y="30">xerk@dot</tspan>
 <tspan x="370" y="50">——————</tspan>
-<tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">25 years</tspan>
-<tspan x="370" y="110" class="keyColor">Tech Debt</tspan>: <tspan class="valueColor">Not debt if it never gets paid back</tspan>
-<tspan x="370" y="130" class="keyColor">Frontend</tspan>: <tspan class="valueColor">React has been a disaster for webdev</tspan>
+<tspan x="370" y="90" class="keyColor">Frontend</tspan>: <tspan class="valueColor">React has been a disaster for webdev</tspan>
+<tspan x="370" y="110" class="keyColor">Compute</tspan>: <tspan class="valueColor">Not the bottleneck. Data-intensive apps are</tspan>
+<tspan x="370" y="130" class="keyColor">Tech Debt</tspan>: <tspan class="valueColor">Not debt if it never gets paid back</tspan>
 <tspan x="370" y="150" class="keyColor">Anti-container</tspan>: <tspan class="valueColor">Docker is a cloud-native lie</tspan>
 <tspan x="370" y="170" class="keyColor">K8s</tspan>: <tspan class="valueColor">Solved Google's problems, not yours!</tspan>
-<tspan x="370" y="190" class="keyColor">Compute</tspan>: <tspan class="valueColor">Not the bottleneck. Data-intensive apps are</tspan>
-<tspan x="370" y="230" class="keyColor">Scrum</tspan>: <tspan class="valueColor">No standups. No ceremonies. Only 1-on-1s</tspan>
-<tspan x="370" y="250" class="keyColor">Leadership</tspan>: <tspan class="valueColor">The best leaders never wanted to lead</tspan>
-<tspan x="370" y="270" class="keyColor">Job Security</tspan>: <tspan class="valueColor">When no one wants to maintain your code</tspan>
-<tspan x="370" y="290" class="keyColor">Ownership</tspan>: <tspan class="valueColor">You do not own your computer anymore</tspan>
-<tspan x="370" y="310" class="keyColor">Empathy</tspan>: <tspan class="valueColor">The only thing that keeps strong teams together</tspan>
-<tspan x="370" y="330" class="keyColor">Resignation</tspan>: <tspan class="valueColor">If you don't learn or earn, leave</tspan>
+<tspan x="370" y="210" class="keyColor">Scrum</tspan>: <tspan class="valueColor">No standups. No ceremonies. Only 1-on-1s</tspan>
+<tspan x="370" y="230" class="keyColor">Leadership</tspan>: <tspan class="valueColor">The best leaders never wanted to lead</tspan>
+<tspan x="370" y="250" class="keyColor">Job Security</tspan>: <tspan class="valueColor">When no one wants to maintain your code</tspan>
+<tspan x="370" y="270" class="keyColor">Ownership</tspan>: <tspan class="valueColor">You do not own your computer anymore</tspan>
+<tspan x="370" y="290" class="keyColor">Empathy</tspan>: <tspan class="valueColor">The only thing that keeps strong teams together</tspan>
+<tspan x="370" y="310" class="keyColor">Resignation</tspan>: <tspan class="valueColor">If you don't learn or earn, leave</tspan>
 </text>
 
 </svg>
