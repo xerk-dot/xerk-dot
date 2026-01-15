@@ -39,9 +39,9 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">MS Paint for diagrams, prod for testing</tspan>
 <tspan x="370" y="190" class="keyColor">Best Practices</tspan>: <tspan class="valueColor">Commits straight to main, YOLO deploys</tspan>
 <tspan x="370" y="210" class="keyColor">Architecture</tspan>: <tspan class="valueColor">Microservices for my todo app</tspan>
-<tspan x="370" y="230" class="keyColor">Tech Debt</tspan>: <tspan class="valueColor">Not a problem if it never gets paid back</tspan>
+<tspan x="370" y="230" class="keyColor">Tech Debt</tspan>: <tspan class="valueColor">Not debt if it never gets paid back</tspan>
 <tspan x="370" y="250" class="keyColor">Deployed</tspan>: <tspan class="valueColor">localhost:3000 (port 3001-3099 also in use)</tspan>
-<tspan x="370" y="270" class="keyColor">Agile</tspan>: <tspan class="valueColor">Sprint planning takes 2 weeks, standup is 45min</tspan>
+<tspan x="370" y="270" class="keyColor">Scrum</tspan>: <tspan class="valueColor">No standups. Only 1-on-1s</tspan>
 </text>
 
 </svg>
