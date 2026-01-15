@@ -38,6 +38,7 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="110" class="keyColor">Compute</tspan>: <tspan class="valueColor">Not the bottleneck. Data-intensive apps are</tspan>
 <tspan x="370" y="130" class="keyColor">Tech Debt</tspan>: <tspan class="valueColor">Not debt if it never gets paid back</tspan>
 <tspan x="370" y="150" class="keyColor">K8s</tspan>: <tspan class="valueColor">Solved Google's problems, not yours!</tspan>
+<tspan x="370" y="170" class="keyColor">Observability</tspan>: <tspan class="valueColor">Shouldn't cost more than what it monitors</tspan>
 <tspan x="370" y="190" class="keyColor">Scrum</tspan>: <tspan class="valueColor">No standups. No ceremonies. Only 1-on-1s.</tspan>
 <tspan x="370" y="210" class="keyColor">Leadership</tspan>: <tspan class="valueColor">The best leaders never wanted to lead</tspan>
 <tspan x="370" y="230" class="keyColor">Job Security</tspan>: <tspan class="valueColor">When no one wants to do your work</tspan>
