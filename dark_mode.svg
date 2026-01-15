@@ -42,8 +42,9 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="210" class="keyColor">Leadership</tspan>: <tspan class="valueColor">The best leaders never wanted to lead</tspan>
 <tspan x="370" y="230" class="keyColor">Job Security</tspan>: <tspan class="valueColor">When no one wants to do your work</tspan>
 <tspan x="370" y="250" class="keyColor">Ownership</tspan>: <tspan class="valueColor">You do not own your computer anymore</tspan>
-<tspan x="370" y="270" class="keyColor">Empathy</tspan>: <tspan class="valueColor">The only thing that keeps strong teams together</tspan>
-<tspan x="370" y="290" class="keyColor">Resignation</tspan>: <tspan class="valueColor">If you don't learn or earn, leave</tspan>
+<tspan x="370" y="270" class="keyColor">Resignation</tspan>: <tspan class="valueColor">If you don't learn or earn, leave</tspan>
+<tspan x="370" y="290" class="keyColor">Empathy</tspan>: <tspan class="valueColor">The only thing that keeps strong teams together</tspan>
+<tspan x="370" y="310" class="keyColor">Freedom</tspan>: <tspan class="valueColor">Doing what you think is right, because others can care less</tspan>
 </text>
 
 </svg>
