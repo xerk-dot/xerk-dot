@@ -41,12 +41,13 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="170" class="keyColor">Observability</tspan>: <tspan class="valueColor">Shouldn't cost more than what it monitors</tspan>
 <tspan x="370" y="190" class="keyColor">AI</tspan>: <tspan class="valueColor">Apparently the only thing keeping society functioning</tspan>
 <tspan x="370" y="230" class="keyColor">Scrum</tspan>: <tspan class="valueColor">No standups. No ceremonies. Only 1-on-1s.</tspan>
-<tspan x="370" y="250" class="keyColor">Leadership</tspan>: <tspan class="valueColor">The best leaders never wanted to lead</tspan>
-<tspan x="370" y="270" class="keyColor">Job Security</tspan>: <tspan class="valueColor">When no one wants to do your work</tspan>
-<tspan x="370" y="290" class="keyColor">Resignation</tspan>: <tspan class="valueColor">If you don't learn or earn, leave</tspan>
-<tspan x="370" y="310" class="keyColor">Sadness</tspan>: <tspan class="valueColor">The greatest harm is your thoughts unguarded</tspan>
-<tspan x="370" y="330" class="keyColor">Empathy</tspan>: <tspan class="valueColor">The only thing that keeps strong teams together</tspan>
-<tspan x="370" y="350" class="keyColor">Seniority</tspan>: <tspan class="valueColor">Good years build wealth, bad years build character</tspan>
+<tspan x="370" y="250" class="keyColor">Agile</tspan>: <tspan class="valueColor">The manifesto should have been a warning</tspan>
+<tspan x="370" y="270" class="keyColor">Leadership</tspan>: <tspan class="valueColor">The best leaders never wanted to lead</tspan>
+<tspan x="370" y="290" class="keyColor">Job Security</tspan>: <tspan class="valueColor">When no one wants to do your work</tspan>
+<tspan x="370" y="310" class="keyColor">Resignation</tspan>: <tspan class="valueColor">If you don't learn or earn, leave</tspan>
+<tspan x="370" y="330" class="keyColor">Sadness</tspan>: <tspan class="valueColor">The greatest harm is your thoughts unguarded</tspan>
+<tspan x="370" y="350" class="keyColor">Empathy</tspan>: <tspan class="valueColor">The only thing that keeps strong teams together</tspan>
+<tspan x="370" y="370" class="keyColor">Seniority</tspan>: <tspan class="valueColor">Good years build wealth, bad years build character</tspan>
 </text>
 
 </svg>
