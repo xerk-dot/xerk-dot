@@ -34,14 +34,14 @@ text, tspan {white-space: pre;}
 <text x="370" y="30" fill="#c9d1d9">
 <tspan x="370" y="30">xerk@dot</tspan>
 <tspan x="370" y="50">——————</tspan>
-<tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">macOS, Linux, Windows</tspan>
+<tspan x="370" y="70" class="keyColor">OS</tspan>: <tspan class="valueColor">Works on my machine™</tspan>
 <tspan x="370" y="90" class="keyColor">Uptime</tspan>: <tspan class="valueColor">25 years</tspan>
-<tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">Cursor, Warp, Antigravity</tspan>
-<tspan x="370" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Markup</tspan>: <tspan class="valueColor">HTML5, CSS3, JSON, XML, LaTeX, Markdown</tspan>
-<tspan x="370" y="210" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Python, TypeScript, JavaScript, Java, SQL</tspan>
-<tspan x="370" y="230" class="keyColor">Data</tspan>: <tspan class="valueColor">PostgreSQL, BigQuery, Redis, Supabase, pgvector, Qdrant</tspan>
-<tspan x="370" y="250" class="keyColor">DevOps</tspan>: <tspan class="valueColor">AWS, Azure, GCP, Docker, Kubernetes, Terraform, Grafana</tspan>
-<tspan x="370" y="270" class="keyColor">Frameworks</tspan>: <tspan class="valueColor">React, Node.js, Next.js, Express, Spring, FastAPI, Django</tspan>
+<tspan x="370" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">MS Paint for diagrams, prod for testing</tspan>
+<tspan x="370" y="190" class="keyColor">Best Practices</tspan>: <tspan class="valueColor">Commits straight to main, YOLO deploys</tspan>
+<tspan x="370" y="210" class="keyColor">Architecture</tspan>: <tspan class="valueColor">Microservices for my todo app</tspan>
+<tspan x="370" y="230" class="keyColor">Tech Debt</tspan>: <tspan class="valueColor">Not a problem if it never gets paid back</tspan>
+<tspan x="370" y="250" class="keyColor">Deployed</tspan>: <tspan class="valueColor">localhost:3000 (port 3001-3099 also in use)</tspan>
+<tspan x="370" y="270" class="keyColor">Agile</tspan>: <tspan class="valueColor">Sprint planning takes 2 weeks, standup is 45min</tspan>
 </text>
 
 </svg>
