@@ -48,6 +48,7 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="330" class="keyColor">Empathy</tspan>: <tspan class="valueColor">The only thing that keeps strong teams together</tspan>
 <tspan x="370" y="350" class="keyColor">Sadness</tspan>: <tspan class="valueColor">Nothing can harm you as much</tspan>
 <tspan x="460" y="370" class="valueColor">as your own thoughts unguarded</tspan>
+<tspan x="370" y="390" class="keyColor">Seniority</tspan>: <tspan class="valueColor">Good years build wealth, bad years build character</tspan>
 </text>
 
 </svg>
