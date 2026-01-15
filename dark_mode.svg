@@ -44,6 +44,7 @@ text, tspan {white-space: pre;}
 <tspan x="370" y="370" class="keyColor">Ownership</tspan>: <tspan class="valueColor">You do not own your computer anymore</tspan>
 <tspan x="370" y="390" class="keyColor">Compute</tspan>: <tspan class="valueColor">Not the bottleneck. Data-intensive apps are</tspan>
 <tspan x="370" y="410" class="keyColor">K8s</tspan>: <tspan class="valueColor">Solved Google's problems, not yours!</tspan>
+<tspan x="370" y="430" class="keyColor">Job Security</tspan>: <tspan class="valueColor">When no one wants to maintain your code</tspan>
 </text>
 
 </svg>
